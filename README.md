@@ -4,7 +4,7 @@ Bring a touch of mystery and elegance to your coding experience with the Battutu
 
 ## Todo
 
-- [ ] Screenshots: To visualize Battutu's influence on your workspace.
-- [ ] Colors Reference: To discover the curated color palette mirroring Battutu's unique aura.
+- Screenshots: To visualize Battutu's influence on your workspace.
+- Colors Reference: To discover the curated color palette mirroring Battutu's unique aura.
 
 **Stay tuned for more updates!**
