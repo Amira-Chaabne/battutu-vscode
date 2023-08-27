@@ -2,13 +2,12 @@
   "name": "battutu",
   "displayName": "Battutu",
   "description": "Dark, minimalist theme for Visual Studio Code inspired by the unique personality of my cat.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "AmiraChaabane",
   "author": {
     "name": "Amira Chaabane",
     "email": "chaabaneamira.nan@gmail.com"
   },
-  
   "repository": {
     "type": "git",
     "url": "https://github.com/Amira-Chaabne/battutu-vscode"
