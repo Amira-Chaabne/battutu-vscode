@@ -778,14 +778,14 @@
 			"name": "Tags",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#fd9b61"
+				"foreground": "#fd9e02"
 			}
 		},
 		{
 			"name": "Attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#8c8c8c"
+				"foreground": "#fed9b7"
 			}
 		},
 		{
